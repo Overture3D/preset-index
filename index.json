@@ -1,0 +1,542 @@
+{
+  "updatedAt": "2026-02-13T06:26:14.333Z",
+  "materials": [
+    "MATTE PLA",
+    "PETG",
+    "PLA",
+    "PLA+",
+    "ROCK PLA",
+    "SILK PLA Silk",
+    "SUPER PLA+"
+  ],
+  "brands": [
+    "Anycubic",
+    "BBL",
+    "Elegoo",
+    "Snapmaker"
+  ],
+  "models": [
+    "A1",
+    "A1M",
+    "CC2",
+    "H2D",
+    "H2S",
+    "Kobra S1",
+    "P1P",
+    "P1S",
+    "P2S",
+    "U1",
+    "X1"
+  ],
+  "slicers": [
+    "Bambu Studio",
+    "ElegooSlicer",
+    "OrcaSlicer"
+  ],
+  "presets": [
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/MATTE PLA/BBL/A1/BambuStudio/OVERTURE MATTE PLA @BBL A1.json",
+      "filename": "OVERTURE MATTE PLA @BBL A1.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/MATTE PLA/BBL/A1/Orcaslicer/OVERTURE MATTE PLA @BBL A1.json",
+      "filename": "OVERTURE MATTE PLA @BBL A1.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/MATTE PLA/BBL/A1M/BambuStudio/OVERTURE MATTE PLA @BBL A1M.json",
+      "filename": "OVERTURE MATTE PLA @BBL A1M.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/MATTE PLA/BBL/A1M/Orcaslicer/OVERTURE MATTE PLA @BBL A1M.json",
+      "filename": "OVERTURE MATTE PLA @BBL A1M.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/MATTE PLA/BBL/P1P/BambuStudio/OVERTURE MATTE PLA @BBL P1P.json",
+      "filename": "OVERTURE MATTE PLA @BBL P1P.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/MATTE PLA/BBL/P1P/Orcaslicer/OVERTURE MATTE PLA @BBL P1P.json",
+      "filename": "OVERTURE MATTE PLA @BBL P1P.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/MATTE PLA/BBL/P2S/BambuStudio/OVERTURE MATTE PLA @BBL P2S.json",
+      "filename": "OVERTURE MATTE PLA @BBL P2S.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/MATTE PLA/BBL/X1/BambuStudio/OVERTURE MATTE PLA @BBL X1.json",
+      "filename": "OVERTURE MATTE PLA @BBL X1.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/MATTE PLA/BBL/X1/Orcaslicer/OVERTURE MATTE PLA @BBL X1.json",
+      "filename": "OVERTURE MATTE PLA @BBL X1.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/MATTE PLA/Elegoo/CC2/ElegooSlicer/OVERTURE MATTE PLA @Elegoo CC2.json",
+      "filename": "OVERTURE MATTE PLA @Elegoo CC2.json"
+    },
+    {
+      "material": "MATTE PLA",
+      "brand": "Snapmaker",
+      "model": "U1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/MATTE PLA/Snapmaker/U1/OrcaSlicer/OVERTURE MATTE PLA @Snapmaker U1.json",
+      "filename": "OVERTURE MATTE PLA @Snapmaker U1.json"
+    },
+    {
+      "material": "PETG",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PETG/BBL/A1/BambuStudio/OVERTURE PETG @BBL A1.json",
+      "filename": "OVERTURE PETG @BBL A1.json"
+    },
+    {
+      "material": "PETG",
+      "brand": "BBL",
+      "model": "H2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PETG/BBL/H2S/BambuStudio/OVERTURE PETG @BBL H2S.json",
+      "filename": "OVERTURE PETG @BBL H2S.json"
+    },
+    {
+      "material": "PETG",
+      "brand": "BBL",
+      "model": "P1S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PETG/BBL/P1S/BambuStudio/OVERTURE PETG @BBL P1S.json",
+      "filename": "OVERTURE PETG @BBL P1S.json"
+    },
+    {
+      "material": "PETG",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PETG/BBL/P2S/BambuStudio/OVERTURE PETG @BBL P2S.json",
+      "filename": "OVERTURE PETG @BBL P2S.json"
+    },
+    {
+      "material": "PETG",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/PETG/Elegoo/CC2/ElegooSlicer/OVERTURE PETG @Elegoo CC2.json",
+      "filename": "OVERTURE PETG @Elegoo CC2.json"
+    },
+    {
+      "material": "PETG",
+      "brand": "Snapmaker",
+      "model": "U1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PETG/Snapmaker/U1/OrcaSlicer/OVERTURE PETG @Snapmaker U1.json",
+      "filename": "OVERTURE PETG @Snapmaker U1.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "Anycubic",
+      "model": "Kobra S1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PLA/Anycubic/Kobra S1/OrcaSlicer/OVERTURE PLA @Anycubic Kobra S1.json",
+      "filename": "OVERTURE PLA @Anycubic Kobra S1.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/A1/BambuStudio/OVERTURE PLA @BBL A1.json",
+      "filename": "OVERTURE PLA @BBL A1.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PLA/BBL/A1/Orcaslicer/OVERTURE PLA @BBL A1.json",
+      "filename": "OVERTURE PLA @BBL A1.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/A1M/BambuStudio/OVERTURE PLA @BBL A1M.json",
+      "filename": "OVERTURE PLA @BBL A1M.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PLA/BBL/A1M/Orcaslicer/OVERTURE PLA @BBL A1M.json",
+      "filename": "OVERTURE PLA @BBL A1M.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "H2D",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/H2D/BambuStudio/OVERTURE PLA @BBL H2D.json",
+      "filename": "OVERTURE PLA @BBL H2D.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "H2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/H2S/BambuStudio/OVERTURE PLA @BBL H2S.json",
+      "filename": "OVERTURE PLA @BBL H2S.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/P1P/BambuStudio/OVERTURE PLA @BBL P1P.json",
+      "filename": "OVERTURE PLA @BBL P1P.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PLA/BBL/P1P/Orcaslicer/OVERTURE PLA @BBL P1P.json",
+      "filename": "OVERTURE PLA @BBL P1P.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "P1S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/P1S/BambuStudio/OVERTURE PLA @BBL P1S.json",
+      "filename": "OVERTURE PLA @BBL P1S.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/P2S/BambuStudio/OVERTURE PLA @BBL P2S.json",
+      "filename": "OVERTURE PLA @BBL P2S.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA/BBL/X1/BambuStudio/OVERTURE PLA @BBL X1.json",
+      "filename": "OVERTURE PLA @BBL X1.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PLA/BBL/X1/Orcaslicer/OVERTURE PLA @BBL X1.json",
+      "filename": "OVERTURE PLA @BBL X1.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/PLA/Elegoo/CC2/ElegooSlicer/OVERTURE PLA @Elegoo CC2.json",
+      "filename": "OVERTURE PLA @Elegoo CC2.json"
+    },
+    {
+      "material": "PLA",
+      "brand": "Snapmaker",
+      "model": "U1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/PLA/Snapmaker/U1/OrcaSlicer/OVERTURE PLA @Snapmaker U1.json",
+      "filename": "OVERTURE PLA @Snapmaker U1.json"
+    },
+    {
+      "material": "PLA+",
+      "brand": "BBL",
+      "model": "H2D",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA+/BBL/H2D/BambuStudio/OVERTURE PLA+ @BBL H2D.json",
+      "filename": "OVERTURE PLA+ @BBL H2D.json"
+    },
+    {
+      "material": "PLA+",
+      "brand": "BBL",
+      "model": "H2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA+/BBL/H2S/BambuStudio/OVERTURE PLA+ @BBL H2S.json",
+      "filename": "OVERTURE PLA+ @BBL H2S.json"
+    },
+    {
+      "material": "PLA+",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/PLA+/BBL/P2S/BambuStudio/OVERTURE PLA+ @BBL P2S.json",
+      "filename": "OVERTURE PLA+ @BBL P2S.json"
+    },
+    {
+      "material": "PLA+",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/PLA+/Elegoo/CC2/ElegooSlicer/OVERTURE PLA+ @Elegoo CC2.json",
+      "filename": "OVERTURE PLA+ @Elegoo CC2.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/ROCK PLA/BBL/A1/BambuStudio/OVERTURE ROCK PLA @BBL A1.json",
+      "filename": "OVERTURE ROCK PLA @BBL A1.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/ROCK PLA/BBL/A1/Orcaslicer/OVERTURE ROCK PLA @BBL A1.json",
+      "filename": "OVERTURE ROCK PLA @BBL A1.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/ROCK PLA/BBL/A1M/BambuStudio/OVERTURE ROCK PLA @BBL A1M.json",
+      "filename": "OVERTURE ROCK PLA @BBL A1M.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/ROCK PLA/BBL/A1M/Orcaslicer/OVERTURE ROCK PLA @BBL A1M.json",
+      "filename": "OVERTURE ROCK PLA @BBL A1M.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/ROCK PLA/BBL/P1P/BambuStudio/OVERTURE ROCK PLA @BBL P1P.json",
+      "filename": "OVERTURE ROCK PLA @BBL P1P.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/ROCK PLA/BBL/P1P/Orcaslicer/OVERTURE ROCK PLA @BBL P1P.json",
+      "filename": "OVERTURE ROCK PLA @BBL P1P.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/ROCK PLA/BBL/P2S/BambuStudio/OVERTURE ROCK PLA @BBL P2S.json",
+      "filename": "OVERTURE ROCK PLA @BBL P2S.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/ROCK PLA/BBL/X1/BambuStudio/OVERTURE ROCK PLA @BBL X1.json",
+      "filename": "OVERTURE ROCK PLA @BBL X1.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/ROCK PLA/BBL/X1/Orcaslicer/OVERTURE ROCK PLA @BBL X1.json",
+      "filename": "OVERTURE ROCK PLA @BBL X1.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/ROCK PLA/Elegoo/CC2/ElegooSlicer/OVERTURE ROCK PLA @Elegoo CC2.json",
+      "filename": "OVERTURE ROCK PLA @Elegoo CC2.json"
+    },
+    {
+      "material": "ROCK PLA",
+      "brand": "Snapmaker",
+      "model": "U1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/ROCK PLA/Snapmaker/U1/OrcaSlicer/OVERTURE ROCK PLA @Snapmaker U1.json",
+      "filename": "OVERTURE ROCK PLA @Snapmaker U1.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SILK PLA Silk/BBL/A1/BambuStudio/OVERTURE SILK PLA Silk @BBL A1.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL A1.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "A1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/SILK PLA Silk/BBL/A1/Orcaslicer/OVERTURE SILK PLA Silk @BBL A1.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL A1.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SILK PLA Silk/BBL/A1M/BambuStudio/OVERTURE SILK PLA Silk @BBL A1M.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL A1M.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "A1M",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/SILK PLA Silk/BBL/A1M/Orcaslicer/OVERTURE SILK PLA Silk @BBL A1M.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL A1M.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "H2D",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SILK PLA Silk/BBL/H2D/BambuStudio/OVERTURE SILK PLA Silk @BBL H2D.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL H2D.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SILK PLA Silk/BBL/P1P/BambuStudio/OVERTURE SILK PLA Silk @BBL P1P.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL P1P.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "P1P",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/SILK PLA Silk/BBL/P1P/Orcaslicer/OVERTURE SILK PLA Silk @BBL P1P.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL P1P.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SILK PLA Silk/BBL/P2S/BambuStudio/OVERTURE SILK PLA Silk @BBL P2S.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL P2S.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SILK PLA Silk/BBL/X1/BambuStudio/OVERTURE SILK PLA Silk @BBL X1.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL X1.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "BBL",
+      "model": "X1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/SILK PLA Silk/BBL/X1/Orcaslicer/OVERTURE SILK PLA Silk @BBL X1.json",
+      "filename": "OVERTURE SILK PLA Silk @BBL X1.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/SILK PLA Silk/Elegoo/CC2/ElegooSlicer/OVERTURE SILK PLA Silk @Elegoo CC2.json",
+      "filename": "OVERTURE SILK PLA Silk @Elegoo CC2.json"
+    },
+    {
+      "material": "SILK PLA Silk",
+      "brand": "Snapmaker",
+      "model": "U1",
+      "slicer": "OrcaSlicer",
+      "path": "OVERTURE/SILK PLA Silk/Snapmaker/U1/OrcaSlicer/OVERTURE SILK PLA Silk @Snapmaker U1.json",
+      "filename": "OVERTURE SILK PLA Silk @Snapmaker U1.json"
+    },
+    {
+      "material": "SUPER PLA+",
+      "brand": "BBL",
+      "model": "H2D",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SUPER PLA+/BBL/H2D/BambuStudio/OVERTURE SUPER PLA+ @BBL H2D.json",
+      "filename": "OVERTURE SUPER PLA+ @BBL H2D.json"
+    },
+    {
+      "material": "SUPER PLA+",
+      "brand": "BBL",
+      "model": "H2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SUPER PLA+/BBL/H2S/BambuStudio/OVERTURE SUPER PLA+ @BBL H2S.json",
+      "filename": "OVERTURE SUPER PLA+ @BBL H2S.json"
+    },
+    {
+      "material": "SUPER PLA+",
+      "brand": "BBL",
+      "model": "P2S",
+      "slicer": "Bambu Studio",
+      "path": "OVERTURE/SUPER PLA+/BBL/P2S/BambuStudio/OVERTURE SUPER PLA+ @BBL P2S.json",
+      "filename": "OVERTURE SUPER PLA+ @BBL P2S.json"
+    },
+    {
+      "material": "SUPER PLA+",
+      "brand": "Elegoo",
+      "model": "CC2",
+      "slicer": "ElegooSlicer",
+      "path": "OVERTURE/SUPER PLA+/Elegoo/CC2/ElegooSlicer/OVERTURE SUPER PLA+ @Elegoo CC2.json",
+      "filename": "OVERTURE SUPER PLA+ @Elegoo CC2.json"
+    }
+  ]
+}
